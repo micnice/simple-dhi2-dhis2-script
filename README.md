@@ -13,3 +13,8 @@
 # possible improvements
 
     - get data elements and organisation units from DHIS2 groups
+
+# how to launch
+
+    Run command
+        python.exe d2d_script.py
